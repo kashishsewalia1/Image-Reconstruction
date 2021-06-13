@@ -18,3 +18,14 @@ Image impainting and completion are classical problems in computer vision and gr
 
 NOTE : While feeding the image to the model, make sure that the image has been resized to 320x320 since the model is trained with this feature size.
 
+Extract Weights
+
+![](Screenshots/Weights%20extraction.png)
+
+OUTPUT-1
+
+![](Screenshots/Tiger.png)
+
+OUTPUT-2
+
+![](Screenshots/Cup.png)
