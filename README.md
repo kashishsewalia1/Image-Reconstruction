@@ -1,5 +1,7 @@
 # Image-Reconstruction
---This project is about reconstruction a corrupt image using AI--
+--This project is about reconstruction a corrupt image using Generative Adversarial Networks - AI--
+
+![](Screenshots/GAN.png)
 
 Inspired from "General Deep Image Completion with Lightweight Conditional Generative Adversarial Networks" by Ching-Wei Tseng, Hung Jin Lin and Shang-Hong Lai.
 
